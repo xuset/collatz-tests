@@ -1,0 +1,5 @@
+
+To run all the tests, execute `run.sh`
+
+This assumes RunCollatz.py is in the parent directory relative to the script
+and that bash is installed.
